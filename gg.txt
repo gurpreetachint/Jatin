@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 fsefsfsdfsf
+=======
+fsefsf
+fsdfaskl adfb ucgucc
+>>>>>>> c91d7738ce18420cc17498d9e6b5b5bf5d5b4d61
